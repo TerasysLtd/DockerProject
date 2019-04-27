@@ -1,0 +1,19 @@
+{
+  "name": "dockerproject",
+  "version": "1.0.0",
+  "description": "NodeJS Docker Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TerasysLtd/DockerProject.git"
+  },
+  "author": "Gboyega O. Aboderin",
+  "license": "ISC",
+  "bugs": {
+    "url": "git+https://github.com/TerasysLtd/DockerProject.git"
+  },
+  "homepage": "https://github.com/TerasysLtd/DockerProject.git"
+}
